@@ -1,0 +1,12 @@
+1;usuario001;Netflix
+2;usuario002;Netflix
+3;usuario003;Netflix
+4;usuario001;Disney
+5;usuario002;Disney
+6;usuario003;Disney
+7;usuario001;Amazon
+8;usuario002;Amazon
+9;usuario003;Amazon
+10;usuario001;Startplus
+11;usuario002;Startplus
+12;usuario003;Startplus
