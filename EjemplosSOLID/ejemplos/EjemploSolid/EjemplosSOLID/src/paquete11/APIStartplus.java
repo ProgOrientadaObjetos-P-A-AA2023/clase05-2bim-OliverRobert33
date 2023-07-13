@@ -1,6 +1,6 @@
 package paquete11;
 
-public class APIAmazonMovie implements APIMovie {
+public class APIStartplus implements APIMovie {
 
     private String apiKey;
 

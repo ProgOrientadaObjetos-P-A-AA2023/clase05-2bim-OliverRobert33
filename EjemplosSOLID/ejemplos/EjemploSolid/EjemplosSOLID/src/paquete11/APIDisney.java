@@ -1,6 +1,6 @@
 package paquete11;
 
-public class APIAmazonMovie implements APIMovie {
+public class APIDisney implements APIMovie {
 
     private String apiKey;
 
